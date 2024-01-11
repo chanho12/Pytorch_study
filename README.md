@@ -1,2 +1,3 @@
 # Pytorch_study
-Reading paper
+
+https://www.yes24.com/Product/Goods/93376077
